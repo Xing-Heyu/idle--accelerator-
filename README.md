@@ -3,6 +3,9 @@ An open-source experiment for idle computing power sharing - 一个关于闲置�
 # Idle Accelerator：闲置算力共享框架实验
  **如果你是评审或想了解完整构想**：请直接阅读 **[`public-compute-vision`](https://github.com/Xing-Heyu/public-compute-vision)** 仓库，那里有全部的设计细节。 2.  **如果你是开发者或想运行代码**：请访问 **[`idle-sense`](https://github.com/Xing-Heyu/idle-sense)** 仓库，按照 `README.md` 的指引安装和测试核心的闲置检测功能。
 **这不仅仅是一个代码仓库，而是一个完整的技术探索。它由一份详细的设计蓝图和一个正在实现的核心引擎共同构成。**
+
+
+
 一、国民算力网：让每一台电脑都成为国家算力的一部分
 现状：国家有超算中心、智算中心，但普通人的电脑是孤岛。
 你的前景：把全国所有个人电脑的闲置算力，连成一张网，接入国家算力体系。
